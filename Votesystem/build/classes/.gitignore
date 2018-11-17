@@ -1,0 +1,10 @@
+/Admin.hbm.xml
+/Vote.hbm.xml
+/Votecontext.hbm.xml
+/Voter.hbm.xml
+/com/
+/ehcache.xml
+/globalMessages_en_US.properties
+/globalMessages_zh_CN.properties
+/log4j.properties
+/struts.xml
